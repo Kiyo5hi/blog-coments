@@ -1,4 +1,7 @@
 {
-  "origins": ["https://blog.k1yoshi.com"],
+  "origins": [
+    "https://blog.k1yoshi.com",
+    "https://blog.kiyo5hi.com"
+  ],
   "defaultCommentOrder": "newest"
 }
